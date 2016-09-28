@@ -14,11 +14,13 @@
         <activity android:name=".sharedelement.activities.CalledActivity" />
         <activity android:name=".sharedelement.activityfrag.CalledActivity" />
         <activity android:name=".sharedelement.activityfrag.CallingActivity" />
-        <activity android:name=".sharedelement.activityviewpager.CallingActivity">
+        <activity android:name=".sharedelement.activityviewpager.CallingActivity" />
+        <activity android:name=".sharedelement.activityviewpager.ViewPagerActivity" />
+        <activity android:name=".circularreveal.image.CircularRevealActivity"></activity>
+        <activity android:name=".circularreveal.fragment.FragmentRevealActivity">
 
         </activity>
-        <activity android:name=".sharedelement.activityviewpager.ViewPagerActivity" />
-        <activity android:name=".CircularRevealActivity">
+        <activity android:name=".circularreveal.dialog.DialogRevealActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
