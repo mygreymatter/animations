@@ -1,2 +1,158 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/mayo/Workspace/Android/Animations/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/home/mayo/Workspace/Android/Animations/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_442f2613d53d860888caf472badf609d44c0c077.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mayo/Workspace/Android/Animations/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/home/mayo/Workspace/Android/Animations/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.0_57cc94b71ae238f12177f1683076cdc4365b9a88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mayo/Workspace/Android/Animations/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/home/mayo/Workspace/Android/Animations/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_69599d0176ab50c3be2218307239fe5aefc33f5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mayo/Workspace/Android/Animations/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/home/mayo/Workspace/Android/Animations/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.0_4733c52dc2fbfb073d8072588e2779e1143b101e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mayo/Workspace/Android/Animations/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/home/mayo/Workspace/Android/Animations/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_0f724418ad763eba194d02938817c39ff7e9cbc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mayo/Workspace/Android/Animations/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/home/mayo/Workspace/Android/Animations/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.0_9ac796d65f1cb67f5a0f2d41c9973d296a3ddf4b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mayo/Workspace/Android/Animations/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/home/mayo/Workspace/Android/Animations/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.0_6ad7a170eaebc0393f93f1d1f9a27f08838d0df5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mayo/Workspace/Android/Animations/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="/home/mayo/Workspace/Android/Animations/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.0_b3c667068b3307ef5ad0e993f7510f8b87de43fd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mayo/Workspace/Android/Animations/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/home/mayo/Workspace/Android/Animations/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.0_7fec61d0faad095df25cd8e0fac48d56e6a79c44.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mayo/android/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/home/mayo/Workspace/Android/Animations/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.0_37d0988f6cf96505eb2e013de2b42bd97fdf664b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mayo/Workspace/Android/Animations/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/home/mayo/Workspace/Android/Animations/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.0_c1f17b86bf075ea3b19449d637e61a4a246ed237.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mayo/Workspace/Android/Animations/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/home/mayo/Workspace/Android/Animations/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_a233d5355d46aa6f35bc36a570cf6d263929f7cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mayo/Workspace/Android/Animations/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="/home/mayo/Workspace/Android/Animations/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.0_fc760a86885c5e00b07b0b2baf9c6056955a1a22.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mayo/Workspace/Android/Animations/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/home/mayo/Workspace/Android/Animations/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.0_70586b43404753b25d6de15770d2c9b66157c78d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mayo/Workspace/Android/Animations/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/home/mayo/Workspace/Android/Animations/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.0_1c2afd8a517b1d2f3ef804735b36487ae643b01c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mayo/Workspace/Android/Animations/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/home/mayo/Workspace/Android/Animations/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.0_3f078d4921a42e4a501f93f49e668a9d09f91341.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/mayo/Workspace/Android/Animations/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/jars/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/home/mayo/Workspace/Android/Animations/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.0_489badba1e1b51aeb24c18a65050b046e1a1810c.jar" />
+    </item>
+
+</items>
